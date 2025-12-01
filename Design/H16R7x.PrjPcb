@@ -87,23 +87,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IEKVTBAZ
 
 [Document3]
-DocumentPath=..\..\..\H16R7x-Hardware\Design\H16R7x_Frontend 2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNGXNYEU
-
-[Document4]
 DocumentPath=..\..\..\H16R7x-Hardware\Design\H16R7x.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,23 +102,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDVUDOLC
-
-[Document5]
-DocumentPath=..\..\..\H16R7x-Hardware\Design\H01R0_Frontend.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNGXNYEU
 
 [Parameter1]
 Name=Module_Description
